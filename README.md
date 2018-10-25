@@ -1,0 +1,2 @@
+# FixedCollectionViewHeaderDemo
+colltionView滑动固定headerView.
