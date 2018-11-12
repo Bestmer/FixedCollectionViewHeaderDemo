@@ -1,4 +1,5 @@
 # FixedCollectionViewHeaderDemo
-colltionView滑动固定headerView.
+- colltionView滑动固定headerView.
+- 使其具有tableView默认plain的效果.
 
-![](http://thyrsi.com/t6/395/1540452708x1822611359.gif)
+![](https://ws4.sinaimg.cn/large/006tNbRwly1fx5321gntgg306s0c8qdj.gif)
